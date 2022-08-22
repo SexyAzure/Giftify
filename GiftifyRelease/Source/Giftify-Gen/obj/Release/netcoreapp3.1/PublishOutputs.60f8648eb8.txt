@@ -1,0 +1,6 @@
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\publish\Giftify-Gen.exe
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\publish\Giftify-Gen.dll
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\publish\Giftify-Gen.deps.json
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\publish\Giftify-Gen.runtimeconfig.json
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\publish\Giftify-Gen.pdb
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\publish\Colorful.Console.dll

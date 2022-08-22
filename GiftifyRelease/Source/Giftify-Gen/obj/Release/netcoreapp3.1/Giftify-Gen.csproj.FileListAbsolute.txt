@@ -1,0 +1,16 @@
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\Giftify-Gen.exe
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\Giftify-Gen.deps.json
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\Giftify-Gen.runtimeconfig.json
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\Giftify-Gen.runtimeconfig.dev.json
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\Giftify-Gen.dll
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\Giftify-Gen.pdb
+D:\Projects\Giftify\Giftify-Gen\bin\Release\netcoreapp3.1\Colorful.Console.dll
+D:\Projects\Giftify\Giftify-Gen\obj\Release\netcoreapp3.1\Giftify-Gen.csproj.AssemblyReference.cache
+D:\Projects\Giftify\Giftify-Gen\obj\Release\netcoreapp3.1\Giftify-Gen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Giftify\Giftify-Gen\obj\Release\netcoreapp3.1\Giftify-Gen.AssemblyInfoInputs.cache
+D:\Projects\Giftify\Giftify-Gen\obj\Release\netcoreapp3.1\Giftify-Gen.AssemblyInfo.cs
+D:\Projects\Giftify\Giftify-Gen\obj\Release\netcoreapp3.1\Giftify-Gen.csproj.CoreCompileInputs.cache
+D:\Projects\Giftify\Giftify-Gen\obj\Release\netcoreapp3.1\Giftify-Gen.csproj.CopyComplete
+D:\Projects\Giftify\Giftify-Gen\obj\Release\netcoreapp3.1\Giftify-Gen.dll
+D:\Projects\Giftify\Giftify-Gen\obj\Release\netcoreapp3.1\Giftify-Gen.pdb
+D:\Projects\Giftify\Giftify-Gen\obj\Release\netcoreapp3.1\Giftify-Gen.genruntimeconfig.cache
